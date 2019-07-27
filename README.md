@@ -1,5 +1,5 @@
 # Assignment-Flight-Booking-System
-Final Sem Assignment Ticketing System (Data Structure)
+Final Sem Assignment Flight Booking System (Data Structure)
 
 THE REQUIREMENTS OF THE TASK
 
